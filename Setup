@@ -1,0 +1,7 @@
+1. Python und pip installieren
+2. sicherstellen, dass die Bibliotheken os,colorsys,Pillow,numpy und matplotlib installiert sind
+3. Spektren in einem Fotoeditor so zuschneiden, dass nur das Spetrum auf dem Bild zu sehen ist 
+(oben und unten soll kein schwarz zu sehen sein, links und rechts ein bisschen schwarz). Links sollte blau und lila sein, rechts rot
+4. bearbeitete Bilder in einen Ordner speichern, der Spektren heißt und im selben Verzeichnis wie das Program ist
+5- das Program ausführen
+Bei Prob´lem mich kontaktieren.
